@@ -1,0 +1,24 @@
+1. Data Preparation
+Before you can build any models, you'll need to gather and preprocess your data. This usually involves cleaning the data, handling missing values, and transforming variables as needed.
+
+Gather Data: Collect historical insurance data, including claim amounts, policyholder information, and other relevant variables.
+
+Clean Data: Handle missing values, outliers, and any inconsistencies in the data.
+
+Feature Engineering: Create new features that might be useful for your models, such as interaction terms or aggregate statistics.
+
+2.Statistical Analysis with Statsmodels
+Using Statsmodels, you can perform exploratory data analysis, build statistical models, and conduct hypothesis testing.
+
+Exploratory Data Analysis (EDA):
+
+Visualize distributions, correlations, and trends in the data.
+
+Use pandas and matplotlib for EDA.
+
+
+Build Statistical Models:
+
+Fit a Generalized Linear Model (GLM) for insurance pricing.
+
+python
